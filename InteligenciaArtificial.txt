@@ -1,1 +1,11 @@
 Inteligencia Artificial
+¿Que es la Inteligencia Artificial?
+La Inteligencia Artificial es una rama de la informática que busca crear sistemas capaces de realizar tareas que, hasta hace poco, requerían inteligencia humana.Para ello, combina algoritmos, modelos de aprendizaje (machine learning) y, en muchos casos, redes neuronales profundas (deep learning) que procesan grandes volúmenes de datos para “aprender” patrones y tomar decisiones o generar contenido de forma autónoma.
+
+Ejemplos de chats de IA
+ChatGPT (OpenAI), Claude (Anthropic), BlenderBot (Meta), Bing Chat (Microsoft)
+
+¿Para qué sirve la IA?
+Automatización de tareas repetitivas
+Análisis de datos y predicciones
+Asistencia y atención al cliente
